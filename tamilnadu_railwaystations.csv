@@ -1,0 +1,515 @@
+﻿osm_id,code,fclass,name,Latitude,Longitude
+248467412,5601,railway_station,Chennai Chetpat,13° 04' 27.63"" N,080° 14' 32.72"" E
+248543770,5601,railway_station,Patchur,12° 35' 11.51"" N,078° 28' 11.04"" E
+248545108,5601,railway_station,Pattaravakkam,13° 06' 51.81"" N,080° 09' 59.03"" E
+256777901,5601,railway_station,Kanchipuram,12° 50' 53.92"" N,079° 42' 18.26"" E
+261716087,5601,railway_station,Walajabad,12° 47' 48.58"" N,079° 49' 6.9"" E
+261716103,5601,railway_station,Kanchipuram East,12° 50' 27.1"" N,079° 42' 43.91"" E
+262308384,5601,railway_station,Pattabiram Military Siding,13° 08' 14.55"" N,080° 03' 36.42"" E
+267158149,5601,railway_station,Tirumalpur,12° 57' 23.64"" N,079° 40' 25.55"" E
+279318169,5601,railway_station,Wellington,11° 21' 21.88"" N,076° 47' 9.97"" E
+279318170,5601,railway_station,Aruvankadu,11° 21' 34.32"" N,076° 46' 10.6"" E
+279318171,5601,railway_station,Ketti,11° 22' 54.45"" N,076° 44' 15.41"" E
+279318172,5601,railway_station,Udhagamandalam,11° 24' 18.61"" N,076° 41' 46.82"" E
+279318254,5601,railway_station,Hill Grove,11° 20' 31.25"" N,076° 50' 8.39"" E
+279954205,5601,railway_station,Kallar,11° 20' 18.79"" N,076° 52' 58.46"" E
+279992466,5601,railway_station,Lovedale,11° 23' 5.4"" N,076° 42' 18.37"" E
+288370387,5601,railway_station,Erode Junction,11° 19' 43.05"" N,077° 43' 32.84"" E
+304278622,5601,railway_station,Anna Nagar West,13° 05' 54.74"" N,080° 12' 3.62"" E
+353002120,5601,railway_station,Kuzhiturai,08° 18' 4.7"" N,077° 13' 7.18"" E
+353002292,5601,railway_station,Nagercoil Junction,08° 10' 28.33"" N,077° 26' 37.96"" E
+353002340,5601,railway_station,Aralvaymozhi,08° 14' 54.08"" N,077° 31' 40.54"" E
+353002398,5601,railway_station,N. Panakudi,08° 18' 52.77"" N,077° 34' 53.14"" E
+353002619,5601,railway_station,Nanguneri,08° 29' 23.42"" N,077° 39' 47.6"" E
+353052107,5601,railway_station,Kadayanallur,09° 05' 8.47"" N,077° 21' 46.73"" E
+358800211,5601,railway_station,Dharmapuri,12° 07' 33.1"" N,078° 09' 15.2"" E
+367460634,5601,railway_station,Hosur,12° 43' 6.01"" N,077° 49' 22.61"" E
+367462102,5601,railway_station,Rayakkottai,12° 30' 52.21"" N,078° 01' 38.19"" E
+367556529,5601,railway_station,Pugalur,11° 03' 5.09"" N,077° 59' 29.81"" E
+367556637,5601,railway_station,Karur Junction,10° 57' 56.91"" N,078° 05' 5.84"" E
+367612325,5601,railway_station,Palayam.I,10° 43' 7.74"" N,078° 07' 45.15"" E
+367666445,5601,railway_station,Omalur Junction,11° 44' 17.86"" N,078° 02' 41.75"" E
+706924007,5601,railway_station,Tiruchendur,08° 30' 8.87"" N,078° 07' 2.28"" E
+842949090,5601,railway_station,Magnesite Junction,11° 41' 41.24"" N,078° 05' 50.69"" E
+979109389,5601,railway_station,Eraniel,08° 12' 48.34"" N,077° 18' 27.48"" E
+1053980228,5601,railway_station,Cauvery,11° 21' 3.89"" N,077° 45' 39.5"" E
+1072726279,5601,railway_station,Chinna Salem,11° 37' 53.13"" N,078° 52' 27.57"" E
+1106092661,5601,railway_station,Rasipuram,11° 27' 13.44"" N,078° 10' 42.45"" E
+1106092848,5601,railway_station,Namakkal,11° 13' 33.65"" N,078° 10' 44.62"" E
+1114694294,5601,railway_station,Tenkasi Junction,08° 57' 52.15"" N,077° 18' 22.44"" E
+1114856411,5601,railway_station,Virinchipuram,12° 57' 43.92"" N,079° 01' 47.69"" E
+1114856418,5601,railway_station,Magudanchavadi,11° 33' 5.04"" N,077° 59' 15.76"" E
+1114856443,5601,railway_station,Vijayamangalam,11° 11' 46.63"" N,077° 31' 18.17"" E
+1114856467,5601,railway_station,Totiyapalayam,11° 17' 31.19"" N,077° 40' 52.19"" E
+1114856494,5601,railway_station,Karuppur,11° 43' 27.02"" N,078° 05' 23.59"" E
+1114856496,5601,railway_station,Anangur,11° 23' 54.33"" N,077° 49' 15.56"" E
+1114856501,5601,railway_station,Danishpet,11° 51' 30.65"" N,078° 08' 16.93"" E
+1114856503,5601,railway_station,Tinnappatti,11° 48' 44.5"" N,078° 05' 54.0"" E
+1186110389,5601,railway_station,Tiruppur,11° 06' 30.83"" N,077° 20' 23.1"" E
+1192860767,5601,railway_station,Periyanaga Thunai,12° 33' 33.82"" N,077° 54' 40.37"" E
+1423798452,5601,railway_station,Ettimadai,10° 53' 54.51"" N,076° 53' 45.51"" E
+1423851850,5601,railway_station,Karaimadai,11° 14' 21.48"" N,076° 57' 30.11"" E
+1435161822,5601,railway_station,Karaikkudi Junction,10° 04' 10.8"" N,078° 47' 38.28"" E
+1478795798,5601,railway_station,Mettupalayam,11° 17' 56.59"" N,076° 56' 7.69"" E
+1666746299,5601,railway_station,Vedaranniyam,10° 22' 39.44"" N,079° 51' 19.32"" E
+1666746345,5601,railway_station,Topputurai,10° 23' 46.67"" N,079° 50' 55.93"" E
+1666746882,5601,railway_station,Kuruvappulam,10° 25' 10.58"" N,079° 47' 13.8"" E
+1666747628,5601,railway_station,Agastiyampalli,10° 21' 18.17"" N,079° 51' 0.75"" E
+1666747630,5601,railway_station,Kariyappattinam,10° 27' 9.87"" N,079° 44' 17.25"" E
+1671298122,5601,railway_station,Neyvilakku,10° 24' 31.1"" N,079° 48' 40.98"" E
+1763267442,5601,railway_station,Tulukapati,09° 27' 32.82"" N,077° 56' 1.09"" E
+1805255694,5601,railway_station,Palakkodu,12° 17' 49.28"" N,078° 04' 18.04"" E
+1805256059,5601,railway_station,Marandahalli,12° 23' 21.47"" N,078° 01' 2.48"" E
+1923234955,5601,railway_station,Kila Kadaiyam,08° 49' 6.97"" N,077° 22' 51.38"" E
+1923257785,5601,railway_station,Ravanasamudram,08° 48' 16.53"" N,077° 22' 38.87"" E
+1923413218,5601,railway_station,Mettur,08° 52' 24.72"" N,077° 22' 12.16"" E
+1926969492,5601,railway_station,Pullampadi,10° 56' 22.85"" N,078° 55' 1.6"" E
+2048191334,5601,railway_station,Palayasivaram,12° 46' 36.45"" N,079° 52' 40.08"" E
+2048214335,5601,railway_station,Takkolam,13° 01' 27.65"" N,079° 40' 38.97"" E
+2082910781,5601,railway_station,Srivilliputtur,09° 29' 51.91"" N,077° 38' 42.26"" E
+2085407352,5601,railway_station,Pavurchutram,08° 54' 54.33"" N,077° 22' 33.35"" E
+2271289117,5601,railway_station,Tiruttangal,09° 28' 38.68"" N,077° 48' 39.08"" E
+2481258995,5601,railway_station,Chennai Park Town,13° 04' 46.51"" N,080° 16' 34.66"" E
+2481258999,5601,railway_station,Chennai Park,13° 04' 50.71"" N,080° 16' 23.12"" E
+2481259002,5601,railway_station,Kodambakkam,13° 03' 5.98"" N,080° 13' 50.48"" E
+2481259006,5601,railway_station,Mambalam,13° 02' 17.04"" N,080° 13' 39.99"" E
+2481259029,5601,railway_station,Saidapet,13° 01' 23.92"" N,080° 13' 25.39"" E
+2481969291,5601,railway_station,Puratchi Thalaivar Dr. M. G. Ramachandran Central,13° 04' 56.72"" N,080° 16' 33.46"" E
+2486239287,5601,railway_station,Chepauk,13° 03' 42.95"" N,080° 16' 50.15"" E
+2486239288,5601,railway_station,Thiruvallikeni,13° 03' 21.37"" N,080° 16' 50.18"" E
+2595195129,5601,railway_station,Kanniyakumari,08° 05' 16.67"" N,077° 32' 48.27"" E
+2605993507,5601,railway_station,Minjur,13° 16' 52.82"" N,080° 15' 36.88"" E
+2618227905,5601,railway_station,Alapakkam,11° 37' 7.73"" N,079° 43' 39.55"" E
+2618362284,5601,railway_station,Capper Quarry,11° 40' 51.68"" N,079° 44' 51.87"" E
+2620614573,5601,railway_station,Kille,11° 26' 18.43"" N,079° 43' 23.73"" E
+2634373103,5601,railway_station,Kattur,10° 53' 45.96"" N,078° 51' 19.93"" E
+2634373112,5601,railway_station,Valadi,10° 52' 21.2"" N,078° 45' 28.84"" E
+2634373115,5601,railway_station,Uttamar Kovil,10° 52' 39.1"" N,078° 42' 8.16"" E
+2669085028,5601,railway_station,Tiruchchirappalli Junction,10° 47' 39.37"" N,078° 41' 7.06"" E
+2671295576,5601,railway_station,Salem Junction,11° 40' 14.72"" N,078° 06' 48.75"" E
+3187977875,5601,railway_station,Palavanthangal,12° 59' 26.3"" N,080° 11' 16.58"" E
+3264712327,5601,railway_station,Guindy,13° 00' 31.21"" N,080° 12' 45.38"" E
+3383990519,5601,railway_station,Melmaruvattur,12° 25' 43.23"" N,079° 49' 58.32"" E
+3480915452,5601,railway_station,Mukundarayapuram,12° 58' 41.7"" N,079° 17' 21.12"" E
+3533387280,5601,railway_station,Mohanur,11° 04' 8.15"" N,078° 08' 23.5"" E
+3678939665,5601,railway_station,Avadi,13° 07' 5.79"" N,080° 06' 5.55"" E
+3725756379,5601,railway_station,Palur,12° 45' 58.85"" N,079° 54' 24.86"" E
+3829101957,5601,railway_station,Thiruvarur Junction,10° 45' 54.01"" N,079° 38' 1.31"" E
+3850728157,5601,railway_station,Velankanni,10° 41' 12.76"" N,079° 50' 46.25"" E
+3904027995,5601,railway_station,Palani,10° 27' 30.93"" N,077° 31' 13.04"" E
+3951315150,5601,railway_station,Thiruthuraipundi Junction,10° 32' 18.8"" N,079° 38' 5.24"" E
+4112304449,5601,railway_station,Kulithalai,10° 56' 0.79"" N,078° 25' 15.77"" E
+4221752111,5601,railway_station,St. Thomas Mount,12° 59' 41.16"" N,080° 11' 57.74"" E
+4261047361,5601,railway_station,Adirampattinam,10° 19' 55.0"" N,079° 23' 5.56"" E
+4271573964,5601,railway_station,Mayanoor,10° 57' 18.01"" N,078° 14' 12.7"" E
+4435694788,5601,railway_station,Pallavaram,12° 58' 3.27"" N,080° 09' 7.38"" E
+4510326880,5601,railway_station,Sulur Road,11° 02' 58.1"" N,077° 07' 2.19"" E
+4510872349,5601,railway_station,Vanjipalaiyam,11° 07' 5.41"" N,077° 15' 58.43"" E
+4511261279,5601,railway_station,Somanur,11° 05' 12.74"" N,077° 11' 8.68"" E
+4512893925,5601,railway_station,Singanallur,11° 00' 44.89"" N,077° 02' 20.83"" E
+4512893961,5601,railway_station,Irugur Junction,11° 00' 57.4"" N,077° 04' 4.16"" E
+4523435051,5601,railway_station,Coimbatore North,11° 01' 6.01"" N,076° 57' 20.6"" E
+4529895413,5601,railway_station,Mettur Dam,11° 48' 17.67"" N,077° 49' 22.95"" E
+4530788362,5601,railway_station,Perundurai,11° 15' 14.05"" N,077° 37' 43.79"" E
+4543308096,5601,railway_station,Valliyur,08° 22' 36.6"" N,077° 36' 51.43"" E
+4543689930,5601,railway_station,Sankari Durg,11° 26' 53.03"" N,077° 52' 14.92"" E
+4545548088,5601,railway_station,Mavelipalaiyam,11° 28' 57.85"" N,077° 53' 59.78"" E
+4558948122,5601,railway_station,Virapandy Road,11° 35' 47.98"" N,078° 04' 28.34"" E
+4563245944,5601,railway_station,Ambaturai,10° 16' 21.07"" N,077° 55' 27.52"" E
+4688900455,5601,railway_station,Toppur,11° 55' 53.7"" N,078° 04' 12.29"" E
+4740275882,5601,railway_station,Walaja Road Junction,12° 58' 15.35"" N,079° 21' 36.71"" E
+4760378936,5601,railway_station,Madukkarai,10° 54' 2.37"" N,076° 56' 32.94"" E
+4767159308,5601,railway_station,Perungalattur,12° 54' 18.88"" N,080° 05' 42.17"" E
+4885083053,5601,railway_station,Tirusulam,12° 58' 49.66"" N,080° 09' 56.86"" E
+4885094689,5601,railway_station,Meenambakkam,12° 59' 4.91"" N,080° 10' 30.33"" E
+4961511851,5601,railway_station,Peelamedu,11° 01' 57.91"" N,077° 00' 0.11"" E
+5232624554,5601,railway_station,Pasupatikovil,10° 52' 57.55"" N,079° 11' 28.24"" E
+5239465206,5601,railway_station,Narikkudi,09° 35' 33.25"" N,078° 17' 59.58"" E
+5273584429,5601,railway_station,Anavardikhanpettai,13° 03' 2.79"" N,079° 34' 2.08"" E
+5273662388,5601,railway_station,Chengalpatttu Junction,12° 41' 36.48"" N,079° 58' 49.86"" E
+5273664184,5601,railway_station,Arakkonam Junction,13° 04' 56.42"" N,079° 40' 6.69"" E
+5273733276,5601,railway_station,Chromepet,12° 57' 7.88"" N,080° 08' 28.2"" E
+5273746526,5601,railway_station,Kattangulathur,12° 48' 20.01"" N,080° 01' 35.88"" E
+5273796758,5601,railway_station,Chitteri,13° 04' 4.61"" N,079° 35' 53.24"" E
+5273810375,5601,railway_station,Elavur,13° 27' 32.27"" N,080° 06' 57.21"" E
+5274094702,5601,railway_station,Ennore,13° 13' 2.89"" N,080° 19' 17.76"" E
+5274201067,5601,railway_station,Hindu College,13° 07' 6.54"" N,080° 04' 27.95"" E
+5274212914,5601,railway_station,Pattabiram E Depot,13° 08' 45.65"" N,080° 04' 7.03"" E
+5274260962,5601,railway_station,Guduvancheri,12° 50' 42.83"" N,080° 03' 27.54"" E
+5274698920,5601,railway_station,Karunguzhi,12° 31' 55.58"" N,079° 54' 41.46"" E
+5274761658,5601,railway_station,Korukkupet,13° 07' 9.93"" N,080° 16' 42.44"" E
+5274761659,5601,railway_station,Korattur,13° 06' 47.31"" N,080° 11' 2.95"" E
+5274891872,5601,railway_station,Karasangal,12° 20' 5.27"" N,079° 45' 1.85"" E
+5274913769,5601,railway_station,Kotturpuram,13° 00' 49.39"" N,080° 14' 54.43"" E
+5274913770,5601,railway_station,Latteri,12° 58' 1.35"" N,079° 03' 58.46"" E
+5275671388,5601,railway_station,Manavur,13° 05' 46.94"" N,079° 48' 4.53"" E
+5275671389,5601,railway_station,Mahendravadi,13° 01' 19.64"" N,079° 31' 2.81"" E
+5275675165,5601,railway_station,Melattur,12° 55' 4.36"" N,078° 52' 30.94"" E
+5275790188,5601,railway_station,Chennai Egmore,13° 04' 39.9"" N,080° 15' 40.53"" E
+5275810573,5601,railway_station,Mailam,12° 09' 36.93"" N,079° 36' 7.7"" E
+5276145853,5601,railway_station,Olakur,12° 18' 17.77"" N,079° 43' 15.37"" E
+5276187591,5601,railway_station,Perambur Carriage Works,13° 06' 26.21"" N,080° 14' 19.99"" E
+5276187592,5601,railway_station,Perani,12° 06' 10.36"" N,079° 33' 8.08"" E
+5276205560,5601,railway_station,Perambur,13° 06' 27.79"" N,080° 14' 39.89"" E
+5276214842,5601,railway_station,Perambur Loco Works,13° 06' 30.59"" N,080° 13' 34.38"" E
+5276343417,5601,railway_station,Ponpadi,13° 14' 21.61"" N,079° 35' 20.16"" E
+5286945821,5601,railway_station,Sevur,12° 58' 18.48"" N,079° 11' 24.37"" E
+5286945822,5601,railway_station,Tambaram,12° 55' 32.85"" N,080° 07' 4.51"" E
+5286998285,5601,railway_station,Tiruvalam,12° 58' 30.02"" N,079° 14' 45.28"" E
+5286998286,5601,railway_station,Tiruninravur,13° 07' 26.38"" N,080° 01' 47.08"" E
+5286998287,5601,railway_station,Tiruttani,13° 10' 45.46"" N,079° 36' 43.85"" E
+5286998289,5601,railway_station,Thalangai,13° 00' 30.95"" N,079° 26' 49.34"" E
+5287023929,5601,railway_station,Tozhuppedu,12° 22' 8.09"" N,079° 47' 5.05"" E
+5287023932,5601,railway_station,Vyasarpadi Jeeva,13° 06' 33.11"" N,080° 15' 25.99"" E
+5287054300,5601,railway_station,Valathoor,12° 53' 22.87"" N,078° 50' 22.83"" E
+5287054303,5601,railway_station,Vikravandi,12° 02' 43.85"" N,079° 32' 33.72"" E
+5300488135,5601,railway_station,Ambur,12° 47' 2.64"" N,078° 43' 18.43"" E
+5300620013,5601,railway_station,Serndanur,11° 52' 13.49"" N,079° 31' 3.0"" E
+5300620014,5601,railway_station,Thiruthuraiyur,11° 49' 27.16"" N,079° 32' 5.63"" E
+5300620015,5601,railway_station,Panruti,11° 46' 23.17"" N,079° 33' 17.04"" E
+5300620016,5601,railway_station,Melpattambakkam,11° 47' 7.43"" N,079° 37' 27.61"" E
+5300620018,5601,railway_station,Nellikuppam,11° 46' 25.35"" N,079° 40' 11.72"" E
+5300620020,5601,railway_station,Tiruppadirippuliyur,11° 44' 53.54"" N,079° 45' 14.6"" E
+5300621421,5601,railway_station,Cuddalore Port Junction,11° 42' 57.42"" N,079° 46' 1.39"" E
+5300664749,5601,railway_station,Parangipettai,11° 28' 37.37"" N,079° 44' 12.65"" E
+5300686639,5601,railway_station,Chidambaram,11° 23' 31.45"" N,079° 42' 10.89"" E
+5300686641,5601,railway_station,Kollidam,11° 19' 42.97"" N,079° 43' 9.26"" E
+5300686653,5601,railway_station,Sirkazhi,11° 14' 34.94"" N,079° 43' 42.23"" E
+5300704874,5601,railway_station,Vithisvarankol,11° 11' 44.92"" N,079° 42' 13.87"" E
+5300704883,5601,railway_station,Anandtandavpur,11° 08' 40.83"" N,079° 39' 31.78"" E
+5300704885,5601,railway_station,Nidur,11° 07' 39.45"" N,079° 38' 43.53"" E
+5300704886,5601,railway_station,Mayiladuthurai Junction,11° 05' 43.8"" N,079° 37' 43.79"" E
+5300783981,5601,railway_station,Kutralam,11° 04' 11.71"" N,079° 33' 25.9"" E
+5300783990,5601,railway_station,Aduturai,11° 00' 32.76"" N,079° 28' 42.36"" E
+5300783994,5601,railway_station,Kumbakonam,10° 57' 15.03"" N,079° 23' 24.25"" E
+5300821193,5601,railway_station,Sundaraperumal Kovil,10° 56' 23.28"" N,079° 18' 40.05"" E
+5300821196,5601,railway_station,Papanasam,10° 55' 23.78"" N,079° 16' 8.15"" E
+5300821200,5601,railway_station,Pandaravadai,10° 54' 48.83"" N,079° 14' 31.21"" E
+5300821201,5601,railway_station,Ayyampet,10° 53' 48.51"" N,079° 12' 26.8"" E
+5300821212,5601,railway_station,Titte,10° 50' 15.19"" N,079° 10' 54.33"" E
+5300821213,5601,railway_station,Thanjavur Junction,10° 46' 41.51"" N,079° 08' 22.82"" E
+5300868130,5601,railway_station,Alakkudi,10° 46' 38.16"" N,079° 03' 10.34"" E
+5300868131,5601,railway_station,Budalur,10° 46' 58.34"" N,078° 58' 51.63"" E
+5300868159,5601,railway_station,Aiyanapuram,10° 47' 16.32"" N,078° 56' 19.68"" E
+5300868160,5601,railway_station,Solagampatti,10° 47' 7.33"" N,078° 52' 38.36"" E
+5300868161,5601,railway_station,Tondamanpatti,10° 47' 10.02"" N,078° 49' 21.31"" E
+5300868165,5601,railway_station,Tiruverumbur,10° 47' 15.12"" N,078° 46' 35.64"" E
+5300868166,5601,railway_station,Manjattidal,10° 47' 33.55"" N,078° 43' 54.1"" E
+5300868168,5601,railway_station,Ponmalai (Golden Rock),10° 47' 29.65"" N,078° 42' 37.56"" E
+5301034189,5601,railway_station,Viluppuram Junction,11° 56' 30.11"" N,079° 29' 56.94"" E
+5301336409,5601,railway_station,Venkatesapuram,11° 55' 52.24"" N,079° 26' 33.96"" E
+5301337838,5601,railway_station,Mambalappattu,11° 57' 8.94"" N,079° 22' 26.04"" E
+5301337891,5601,railway_station,Tirukkovilur,11° 58' 32.57"" N,079° 13' 24.58"" E
+5301337980,5601,railway_station,Tandarai,12° 06' 42.86"" N,079° 09' 19.3"" E
+5301337997,5601,railway_station,Tiruvannamalai,12° 14' 18.45"" N,079° 04' 40.3"" E
+5301739700,5601,railway_station,Turinjapuram,12° 19' 2.25"" N,079° 05' 4.79"" E
+5301740123,5601,railway_station,Agaram Sibbandi,12° 23' 27.4"" N,079° 06' 8.28"" E
+5301740166,5601,railway_station,Polur,12° 30' 37.24"" N,079° 07' 48.61"" E
+5301740197,5601,railway_station,Arni Road,12° 37' 55.54"" N,079° 12' 33.39"" E
+5301740201,5601,railway_station,Kannamangalam,12° 45' 13.5"" N,079° 09' 41.88"" E
+5301740205,5601,railway_station,Kaniyambadi,12° 48' 46.08"" N,079° 07' 30.57"" E
+5301740207,5601,railway_station,Vellore Cantonment,12° 54' 38.34"" N,079° 07' 40.25"" E
+5301762158,5601,railway_station,Valavanur,11° 55' 4.19"" N,079° 34' 27.19"" E
+5301762167,5601,railway_station,Chinnababu Samudram,11° 55' 10.56"" N,079° 41' 12.08"" E
+5302069214,5601,railway_station,Kurinjipadi,11° 34' 21.9"" N,079° 35' 47.05"" E
+5302069253,5601,railway_station,Vadalur,11° 33' 25.4"" N,079° 32' 46.67"" E
+5302069263,5601,railway_station,Neyveli,11° 32' 23.0"" N,079° 28' 37.41"" E
+5302069335,5601,railway_station,Vriddhachalam Junction,11° 32' 0.01"" N,079° 18' 59.48"" E
+5302069336,5601,railway_station,Uttangalmangalam,11° 32' 24.34"" N,079° 25' 52.16"" E
+5302474677,5601,railway_station,Peralam Junction,10° 57' 29.61"" N,079° 39' 25.42"" E
+5302474693,5601,railway_station,Nannilam,10° 53' 5.45"" N,079° 39' 4.12"" E
+5302919531,5601,railway_station,Mavur Road,10° 41' 24.49"" N,079° 37' 43.94"" E
+5302919532,5601,railway_station,Tirunellikaval,10° 39' 11.04"" N,079° 38' 11.55"" E
+5302919539,5601,railway_station,Alattambadi,10° 36' 18.69"" N,079° 38' 24.84"" E
+5302919555,5601,railway_station,Pandi,10° 28' 37.46"" N,079° 36' 55.54"" E
+5302919556,5601,railway_station,Tillaivilagam,10° 26' 36.4"" N,079° 33' 37.72"" E
+5302919557,5601,railway_station,Mutupet,10° 24' 9.72"" N,079° 29' 55.87"" E
+5302919561,5601,railway_station,Pattukkottai,10° 24' 58.64"" N,079° 19' 14.02"" E
+5302919588,5601,railway_station,Peravurani,10° 17' 8.64"" N,079° 12' 2.34"" E
+5303103019,5601,railway_station,Ayingudi,10° 13' 1.71"" N,079° 05' 31.57"" E
+5303104522,5601,railway_station,Arantangi,10° 10' 19.58"" N,079° 00' 11.98"" E
+5303104524,5601,railway_station,Kandanur Puduvayal,10° 06' 20.76"" N,078° 50' 18.39"" E
+5303104550,5601,railway_station,Saliyamangalam,10° 46' 46.69"" N,079° 16' 31.0"" E
+5303104568,5601,railway_station,Ammapet,10° 46' 44.26"" N,079° 19' 29.38"" E
+5303104583,5601,railway_station,Nidamangalam Junction,10° 46' 25.56"" N,079° 24' 49.84"" E
+5303104596,5601,railway_station,Mannargudi,10° 40' 30.51"" N,079° 27' 19.34"" E
+5303104738,5601,railway_station,Koradacheri,10° 46' 17.15"" N,079° 29' 24.58"" E
+5303104744,5601,railway_station,Tirumanthikunam,10° 46' 1.16"" N,079° 32' 24.8"" E
+5303104751,5601,railway_station,Kulikarai,10° 45' 56.19"" N,079° 35' 4.9"" E
+5303104762,5601,railway_station,Adiyakkamangalam,10° 45' 26.51"" N,079° 40' 53.98"" E
+5303104776,5601,railway_station,Kizhvelur,10° 45' 17.26"" N,079° 44' 37.38"" E
+5303104780,5601,railway_station,Nagappattinam Junction,10° 45' 35.36"" N,079° 50' 44.21"" E
+5303104782,5601,railway_station,Velippalaiyam,10° 46' 33.99"" N,079° 50' 38.22"" E
+5303104783,5601,railway_station,Nagore,10° 49' 8.35"" N,079° 50' 45.65"" E
+5303165642,5601,railway_station,Kandambakkam,11° 53' 54.02"" N,079° 27' 19.73"" E
+5303165643,5601,railway_station,Tiruvennainallur Road,11° 50' 28.57"" N,079° 24' 46.99"" E
+5303165644,5601,railway_station,Parikkal,11° 46' 32.73"" N,079° 22' 16.81"" E
+5303165645,5601,railway_station,Ulundurpet,11° 42' 7.31"" N,079° 19' 5.44"" E
+5303165652,5601,railway_station,Pavunur,11° 36' 3.25"" N,079° 18' 56.58"" E
+5303165653,5601,railway_station,Vriddhachalam Town,11° 31' 11.97"" N,079° 18' 41.66"" E
+5303165655,5601,railway_station,Talanallur,11° 28' 10.98"" N,079° 16' 9.61"" E
+5303165673,5601,railway_station,Pennadam,11° 23' 54.38"" N,079° 13' 15.47"" E
+5303165674,5601,railway_station,Ichchangadu,11° 22' 14.07"" N,079° 13' 9.75"" E
+5303165678,5601,railway_station,Mathur,11° 19' 6.68"" N,079° 12' 22.19"" E
+5303165679,5601,railway_station,Sendurai,11° 15' 19.01"" N,079° 10' 3.18"" E
+5303839983,5601,railway_station,Ottakovil,11° 12' 58.83"" N,079° 06' 4.09"" E
+5303839984,5601,railway_station,Ariyalur,11° 08' 56.06"" N,079° 04' 7.1"" E
+5303839985,5601,railway_station,Sillakkudi,11° 05' 48.19"" N,079° 02' 14.02"" E
+5303839986,5601,railway_station,Kallagam,11° 01' 30.65"" N,079° 00' 18.12"" E
+5303839987,5601,railway_station,Kallakkudi Palanganatham,10° 57' 59.35"" N,078° 56' 58.93"" E
+5303840006,5601,railway_station,Lalgudi,10° 52' 31.51"" N,078° 48' 55.17"" E
+5303840008,5601,railway_station,Srirangam,10° 51' 27.73"" N,078° 41' 45.46"" E
+5303840009,5601,railway_station,Tiruchchirappalli Town,10° 49' 45.5"" N,078° 42' 10.94"" E
+5303863768,5601,railway_station,Tiruchchirapalli Fort,10° 49' 32.5"" N,078° 41' 20.58"" E
+5303863787,5601,railway_station,Tiruchchirappalli Palakarai,10° 48' 28.19"" N,078° 41' 38.97"" E
+5304625828,5601,railway_station,Kumaramangalam,10° 41' 47.9"" N,078° 43' 26.53"" E
+5304625830,5601,railway_station,Keeranur,10° 34' 39.28"" N,078° 47' 8.75"" E
+5304625840,5601,railway_station,Vellanur,10° 28' 3.72"" N,078° 47' 47.61"" E
+5304625848,5601,railway_station,Pudukkotai,10° 22' 19.88"" N,078° 48' 7.14"" E
+5305909268,5601,railway_station,Tirumayam,10° 14' 27.36"" N,078° 45' 31.67"" E
+5305909272,5601,railway_station,Chettinad,10° 09' 35.67"" N,078° 46' 35.09"" E
+5305909275,5601,railway_station,Devakottai Road,10° 02' 16.93"" N,078° 45' 44.0"" E
+5305909277,5601,railway_station,Kallal,09° 58' 20.34"" N,078° 40' 3.58"" E
+5305909282,5601,railway_station,Panangudi,09° 55' 16.97"" N,078° 36' 45.25"" E
+5305909296,5601,railway_station,Sivaganga,09° 51' 18.86"" N,078° 30' 2.13"" E
+5305909298,5601,railway_station,Melakkonnakkulam,09° 43' 56.41"" N,078° 27' 58.85"" E
+5305909308,5601,railway_station,Manamadurai Junction,09° 40' 58.8"" N,078° 27' 13.77"" E
+5305909311,5601,railway_station,Paramakkudi,09° 32' 22.06"" N,078° 35' 27.9"" E
+5305909313,5601,railway_station,Sattirakkudi,09° 24' 3.5"" N,078° 42' 19.09"" E
+5305955338,5601,railway_station,Ramanathapuram,09° 21' 31.91"" N,078° 50' 15.1"" E
+5305955340,5601,railway_station,Uchippuli,09° 18' 31.8"" N,079° 00' 44.75"" E
+5305955343,5601,railway_station,Mandapam,09° 16' 50.8"" N,079° 09' 26.19"" E
+5305955344,5601,railway_station,Pamban,09° 16' 48.7"" N,079° 12' 50.01"" E
+5306231354,5601,railway_station,Tiruchchuli,09° 32' 15.86"" N,078° 11' 54.25"" E
+5306231356,5601,railway_station,Aruppukkottai,09° 31' 28.66"" N,078° 06' 10.37"" E
+5306231358,5601,railway_station,Virudhunagar Junction,09° 35' 40.2"" N,077° 57' 26.64"" E
+5306327078,5601,railway_station,Otivakkam,12° 37' 21.81"" N,079° 58' 30.94"" E
+5306412986,5601,railway_station,Madurantakam,12° 30' 17.08"" N,079° 53' 36.0"" E
+5306585646,5601,railway_station,Tindivanam,12° 13' 44.98"" N,079° 39' 5.51"" E
+5308325636,5601,railway_station,Mundiyampakkam,11° 59' 42.59"" N,079° 30' 41.65"" E
+5308690568,5601,railway_station,ஆலந்தூர்,13° 00' 15.32"" N,080° 12' 5.23"" E
+5310778033,5601,railway_station,Ambattur,13° 06' 50.49"" N,080° 09' 10.3"" E
+5310778035,5601,railway_station,Annanur,13° 06' 58.88"" N,080° 07' 36.89"" E
+5310778036,5601,railway_station,Veppampattu,13° 07' 24.96"" N,079° 59' 54.32"" E
+5310778038,5601,railway_station,Sevvapet Road,13° 07' 30.96"" N,079° 57' 57.82"" E
+5310778041,5601,railway_station,Tiruvallur,13° 06' 58.29"" N,079° 54' 43.78"" E
+5310778042,5601,railway_station,Kadambattur,13° 05' 59.48"" N,079° 51' 47.33"" E
+5310778043,5601,railway_station,Tiruvalangadu,13° 05' 24.65"" N,079° 45' 49.56"" E
+5310778044,5601,railway_station,Mosur,13° 05' 5.77"" N,079° 42' 44.05"" E
+5310778045,5601,railway_station,Puliyamangalam,13° 05' 0.25"" N,079° 41' 5.93"" E
+5310778046,5601,railway_station,Sholinghur,13° 00' 50.81"" N,079° 29' 12.34"" E
+5310778047,5601,railway_station,Marudalam,12° 59' 47.93"" N,079° 23' 48.24"" E
+5310778048,5601,railway_station,Kavanur,12° 56' 56.59"" N,078° 58' 11.21"" E
+5310778049,5601,railway_station,Gudiyattam,12° 56' 14.27"" N,078° 54' 51.65"" E
+5310778050,5601,railway_station,Melpatti,12° 51' 30.04"" N,078° 47' 42.67"" E
+5310778051,5601,railway_station,Pachchakuppam,12° 49' 24.51"" N,078° 45' 29.66"" E
+5311732434,5601,railway_station,Vinnamangalam,12° 43' 41.56"" N,078° 40' 43.0"" E
+5311732450,5601,railway_station,Vaniyambadi,12° 40' 45.64"" N,078° 37' 21.89"" E
+5311732451,5601,railway_station,Kettandapatti,12° 37' 31.01"" N,078° 34' 15.22"" E
+5311732452,5601,railway_station,Jolarpettai Junction,12° 33' 50.37"" N,078° 34' 42.2"" E
+5311732458,5601,railway_station,Tondiarpet,13° 07' 39.07"" N,080° 16' 54.93"" E
+5311732459,5601,railway_station,Tiruvottiyur,13° 09' 31.11"" N,080° 17' 46.35"" E
+5311732501,5601,railway_station,Wimco Nagar,13° 10' 46.86"" N,080° 18' 19.65"" E
+5311732620,5601,railway_station,Attippattu,13° 15' 39.03"" N,080° 17' 22.73"" E
+5311732623,5601,railway_station,Anuppambattu,13° 18' 15.09"" N,080° 13' 51.4"" E
+5311732624,5601,railway_station,Ponneri,13° 19' 56.41"" N,080° 11' 55.98"" E
+5311732625,5601,railway_station,Kavaraippettai,13° 21' 47.6"" N,080° 08' 51.46"" E
+5311732626,5601,railway_station,Gummidipundi,13° 24' 35.37"" N,080° 07' 25.28"" E
+5311732627,5601,railway_station,Arambakkam,13° 31' 59.05"" N,080° 04' 28.83"" E
+5311755231,5601,railway_station,Chintadaripet,13° 04' 25.66"" N,080° 16' 25.9"" E
+5311755232,5601,railway_station,Light House,13° 02' 43.93"" N,080° 16' 37.16"" E
+5311755233,5601,railway_station,Mundakakanni Amman Koil,13° 02' 26.34"" N,080° 16' 11.57"" E
+5311755234,5601,railway_station,Thirumayilai,13° 02' 7.43"" N,080° 16' 3.05"" E
+5311755235,5601,railway_station,Mandaveli,13° 01' 41.14"" N,080° 15' 38.23"" E
+5311755236,5601,railway_station,Greenways Road,13° 01' 17.7"" N,080° 15' 9.83"" E
+5311755237,5601,railway_station,Kasturiba Nagar,13° 00' 19.38"" N,080° 14' 52.3"" E
+5311755238,5601,railway_station,Indira Nagar,12° 59' 45.82"" N,080° 14' 58.98"" E
+5311755239,5601,railway_station,Tiruvanmiyur,12° 59' 20.34"" N,080° 15' 5.71"" E
+5311755240,5601,railway_station,Taramani,12° 58' 43.17"" N,080° 14' 29.92"" E
+5311755241,5601,railway_station,Perungudi,12° 58' 33.81"" N,080° 13' 55.89"" E
+5311755242,5601,railway_station,Velachery,12° 58' 3.43"" N,080° 13' 10.23"" E
+5311755243,5601,railway_station,Puzhudivakkam,12° 58' 38.96"" N,080° 12' 18.01"" E
+5311755244,5601,railway_station,Adambakkam,12° 58' 56.57"" N,080° 11' 48.8"" E
+5311775876,5601,railway_station,Singaperumal Koil,12° 45' 42.92"" N,080° 00' 2.81"" E
+5311775879,5601,railway_station,Vandalur,12° 53' 29.78"" N,080° 05' 5.91"" E
+5311775880,5601,railway_station,Tambaram Sanatorium,12° 56' 13.05"" N,080° 07' 50.53"" E
+5311775881,5601,railway_station,Nungambakkam,13° 03' 57.03"" N,080° 13' 58.22"" E
+5315603263,5601,railway_station,Punggudi,10° 44' 50.21"" N,078° 37' 7.88"" E
+5315603264,5601,railway_station,Kolatur,10° 42' 1.63"" N,078° 32' 49.91"" E
+5315603266,5601,railway_station,Manaparai,10° 36' 26.42"" N,078° 25' 5.2"" E
+5315603267,5601,railway_station,Chettiyapatti,10° 34' 21.19"" N,078° 21' 45.67"" E
+5315603268,5601,railway_station,Vaiyampatti,10° 32' 36.17"" N,078° 18' 30.92"" E
+5315603341,5601,railway_station,Kalpattichatram,10° 31' 10.95"" N,078° 14' 17.81"" E
+5315603382,5601,railway_station,Ayyalur,10° 29' 11.0"" N,078° 09' 33.57"" E
+5316869488,5601,railway_station,Vadamadura,10° 26' 12.45"" N,078° 06' 9.4"" E
+5316869489,5601,railway_station,Tamaraipadi,10° 24' 2.58"" N,078° 02' 30.74"" E
+5316871830,5601,railway_station,Dindigul Junction,10° 21' 10.05"" N,077° 59' 0.35"" E
+5317197212,5601,railway_station,Pollachi Junction,10° 39' 11.7"" N,077° 00' 3.22"" E
+5319202812,5601,railway_station,பரங்கிமலை,12° 59' 42.0"" N,080° 11' 54.9"" E
+5319207378,5601,railway_station,ஈக்காட்டுத்தாங்கல்,13° 01' 0.92"" N,080° 12' 19.52"" E
+5319972796,5601,railway_station,அசோக் நகர்,13° 02' 7.72"" N,080° 12' 39.99"" E
+5319972798,5601,railway_station,வடபழநி,13° 03' 3.35"" N,080° 12' 43.44"" E
+5319972799,5601,railway_station,அரும்பாக்கம்,13° 03' 42.03"" N,080° 12' 41.96"" E
+5321248890,5601,railway_station,சென்னை புறநகர் பேருந்து நிலையம்,13° 04' 6.69"" N,080° 12' 14.27"" E
+5321248896,5601,railway_station,கோயம்பேடு,13° 04' 24.42"" N,080° 11' 41.41"" E
+5324862243,5601,railway_station,Sudiyur,09° 36' 1.74"" N,078° 29' 9.52"" E
+5327443077,5601,railway_station,Coonoor,11° 20' 39.25"" N,076° 47' 28.65"" E
+5329907482,5601,railway_station,Pachaiyappa's College,13° 04' 31.97"" N,080° 13' 58.27"" E
+5329907487,5601,railway_station,Kilpauk,13° 04' 39.49"" N,080° 14' 33.43"" E
+5329907490,5601,railway_station,Nehru Park,13° 04' 43.62"" N,080° 15' 1.7"" E
+5329907499,5601,railway_station,Egmore Metro,13° 04' 49.01"" N,080° 15' 47.0"" E
+5337407346,5601,railway_station,ஆயிரம் விளக்கு,13° 03' 30.66"" N,080° 15' 31.62"" E
+5337407350,5601,railway_station,எல் ஐ சி,13° 03' 51.74"" N,080° 15' 57.05"" E
+5337407354,5601,railway_station,அரசினர் தோட்டம்,13° 04' 10.68"" N,080° 16' 22.93"" E
+5337658083,5601,railway_station,High Court,13° 05' 14.17"" N,080° 17' 5.94"" E
+5337658088,5601,railway_station,Mannadi,13° 05' 43.61"" N,080° 17' 10.07"" E
+5337658099,5601,railway_station,வண்ணாரப்பேட்டை,13° 06' 28.25"" N,080° 16' 51.42"" E
+5338159666,5601,railway_station,Vellodu,10° 19' 9.38"" N,077° 57' 8.6"" E
+5338159667,5601,railway_station,Kodaikkanal Road,10° 10' 43.31"" N,077° 54' 37.0"" E
+5338159668,5601,railway_station,Vadippatti,10° 05' 10.22"" N,077° 56' 45.76"" E
+5338159677,5601,railway_station,Karupatti,10° 03' 8.43"" N,077° 56' 42.61"" E
+5338159678,5601,railway_station,Sholavandan,10° 01' 21.58"" N,077° 57' 55.41"" E
+5338159679,5601,railway_station,Samayanallur,09° 58' 55.45"" N,078° 02' 0.98"" E
+5338159684,5601,railway_station,Kudalnagar,09° 56' 48.2"" N,078° 06' 18.59"" E
+5338756137,5601,railway_station,Tiruparankundram,09° 52' 44.73"" N,078° 03' 54.55"" E
+5338756172,5601,railway_station,Tirumangalam,09° 49' 27.25"" N,077° 59' 24.14"" E
+5338756173,5601,railway_station,Sivarakottai,09° 44' 23.54"" N,077° 59' 11.35"" E
+5338756174,5601,railway_station,Kalligudi,09° 41' 44.43"" N,077° 58' 26.63"" E
+5338756248,5601,railway_station,Sankaralingapuram,09° 31' 20.35"" N,077° 52' 48.02"" E
+5338756288,5601,railway_station,Sivakasi,09° 27' 46.08"" N,077° 47' 20.76"" E
+5338756364,5601,railway_station,Rajapalaiyam,09° 27' 7.98"" N,077° 33' 38.8"" E
+5338756428,5601,railway_station,Sankarankovil,09° 10' 35.11"" N,077° 31' 36.25"" E
+5338934710,5601,railway_station,Pambakovil Shandy,09° 07' 49.84"" N,077° 25' 50.32"" E
+5338935516,5601,railway_station,Sengottai,08° 59' 14.14"" N,077° 14' 31.8"" E
+5338935518,5601,railway_station,Bhagavathipuram,09° 01' 0.77"" N,077° 11' 48.38"" E
+5349009456,5601,railway_station,Mukhasa Parur,11° 33' 58.26"" N,079° 14' 27.16"" E
+5349009486,5601,railway_station,Pukkiravari,11° 38' 1.28"" N,078° 59' 10.7"" E
+5349010077,5601,railway_station,Attur,11° 35' 42.81"" N,078° 35' 36.61"" E
+5349010098,5601,railway_station,Peddanayakkanpalaiyam,11° 38' 51.58"" N,078° 30' 19.76"" E
+5349010103,5601,railway_station,Ettapur Road,11° 39' 3.46"" N,078° 28' 6.1"" E
+5349010114,5601,railway_station,Minnampalli,11° 40' 15.68"" N,078° 17' 6.95"" E
+5349010118,5601,railway_station,Ayodhyapattanam,11° 40' 17.69"" N,078° 14' 3.14"" E
+5349010119,5601,railway_station,Salem East,11° 39' 45.71"" N,078° 10' 34.2"" E
+5349010252,5601,railway_station,Salem Town,11° 39' 36.19"" N,078° 09' 43.18"" E
+5349249832,5601,railway_station,Salem Market,11° 39' 18.0"" N,078° 08' 38.1"" E
+5349727055,5601,railway_station,Sattur,09° 21' 29.63"" N,077° 55' 18.38"" E
+5349727077,5601,railway_station,Nalli,09° 16' 12.94"" N,077° 55' 22.23"" E
+5349727102,5601,railway_station,Kovilpatti,09° 10' 57.43"" N,077° 52' 23.03"" E
+5349727117,5601,railway_station,Kumarapuram,09° 06' 13.92"" N,077° 49' 52.54"" E
+5349727238,5601,railway_station,Kadambur,09° 00' 4.16"" N,077° 51' 48.66"" E
+5349727248,5601,railway_station,Vanchi Maniyachchi Junction,08° 52' 51.74"" N,077° 53' 28.96"" E
+5349727249,5601,railway_station,Pandiyapuram,08° 51' 44.49"" N,077° 56' 20.63"" E
+5349727251,5601,railway_station,Tattapparai,08° 49' 39.94"" N,078° 01' 23.51"" E
+5349727264,5601,railway_station,Milavittan,08° 48' 41.92"" N,078° 05' 15.81"" E
+5349727306,5601,railway_station,Tuticorin,08° 48' 21.58"" N,078° 09' 19.26"" E
+5351186330,5601,railway_station,Gangaikondan,08° 49' 44.83"" N,077° 47' 3.32"" E
+5351186331,5601,railway_station,Naraikkinar,08° 51' 44.74"" N,077° 50' 30.47"" E
+5351186334,5601,railway_station,Talaiyuthu,08° 47' 3.32"" N,077° 43' 48.83"" E
+5351690318,5601,railway_station,Tirunelveli Junction,08° 43' 52.4"" N,077° 42' 30.01"" E
+5351690319,5601,railway_station,Tirunelveli Town,08° 43' 12.31"" N,077° 41' 12.68"" E
+5351690322,5601,railway_station,Pettai,08° 43' 8.16"" N,077° 39' 13.34"" E
+5351690360,5601,railway_station,Cheranmahadevi,08° 40' 45.55"" N,077° 33' 42.19"" E
+5351690389,5601,railway_station,Kallidaikurichi,08° 40' 51.24"" N,077° 27' 54.39"" E
+5351690398,5601,railway_station,Ambasamudram,08° 42' 29.71"" N,077° 26' 17.78"" E
+5351690490,5601,railway_station,Kizhapuliyur,08° 57' 9.9"" N,077° 19' 22.47"" E
+5351690494,5601,railway_station,Palayankottai,08° 42' 35.97"" N,077° 44' 12.06"" E
+5351690505,5601,railway_station,Seydunganallur,08° 39' 47.1"" N,077° 49' 27.95"" E
+5351690542,5601,railway_station,Thathankulam,08° 37' 47.57"" N,077° 50' 27.99"" E
+5351690553,5601,railway_station,Srivaikuntam,08° 37' 21.85"" N,077° 54' 21.03"" E
+5351824938,5601,railway_station,Nazareth,08° 33' 51.83"" N,077° 58' 32.98"" E
+5351824965,5601,railway_station,Alwar Tirunagari,08° 36' 5.68"" N,077° 56' 33.9"" E
+5351824967,5601,railway_station,Kachchanavilai,08° 34' 41.92"" N,078° 01' 14.22"" E
+5351824969,5601,railway_station,Kurumbur,08° 35' 8.47"" N,078° 02' 21.95"" E
+5351825019,5601,railway_station,Arumuganeri,08° 34' 46.01"" N,078° 05' 31.2"" E
+5351826024,5601,railway_station,Kayalpattinam,08° 34' 4.03"" N,078° 06' 1.31"" E
+5351826058,5601,railway_station,Akkaraipatti,10° 23' 59.38"" N,077° 55' 21.49"" E
+5352513060,5601,railway_station,Oddanchatram,10° 29' 6.41"" N,077° 44' 45.62"" E
+5352513093,5601,railway_station,Chatrappatti,10° 28' 39.14"" N,077° 39' 23.42"" E
+5352514583,5601,railway_station,Pushpattur,10° 31' 29.61"" N,077° 25' 21.5"" E
+5352514594,5601,railway_station,Maivadi Road,10° 33' 50.03"" N,077° 20' 4.39"" E
+5352514608,5601,railway_station,Udumalaippettai,10° 34' 45.34"" N,077° 15' 1.43"" E
+5352514734,5601,railway_station,Gomangalam,10° 36' 35.52"" N,077° 07' 57.76"" E
+5352514780,5601,railway_station,Kovilpalaiyam,10° 44' 50.91"" N,077° 01' 5.29"" E
+5352514781,5601,railway_station,Nallattipalaiyam,10° 47' 9.53"" N,077° 01' 16.48"" E
+5352514786,5601,railway_station,Kinathukadavu,10° 49' 42.36"" N,077° 01' 31.61"" E
+5352514797,5601,railway_station,Chettipalaiyam,10° 54' 58.66"" N,077° 02' 1.03"" E
+5352514798,5601,railway_station,Podanur Junction,10° 57' 50.73"" N,076° 59' 19.32"" E
+5353162191,5601,railway_station,Minatchipuram,10° 37' 53.64"" N,076° 52' 4.89"" E
+5353573460,5601,railway_station,Madurai East,09° 54' 32.68"" N,078° 08' 4.36"" E
+5353573468,5601,railway_station,Silaiman,09° 52' 3.04"" N,078° 12' 3.91"" E
+5353573491,5601,railway_station,Tiruppuvanam,09° 49' 18.54"" N,078° 15' 34.17"" E
+5353573522,5601,railway_station,Tiruppachetti,09° 46' 25.6"" N,078° 20' 40.74"" E
+5353573539,5601,railway_station,Karumattur,09° 56' 26.35"" N,077° 56' 6.17"" E
+5353573541,5601,railway_station,Usilampatti,09° 58' 15.28"" N,077° 47' 35.82"" E
+5353573542,5601,railway_station,Andipatti,09° 59' 44.42"" N,077° 37' 27.47"" E
+5353573544,5601,railway_station,Teni,10° 00' 51.47"" N,077° 28' 22.92"" E
+5353573545,5601,railway_station,Bodinayakkanur,10° 01' 8.57"" N,077° 20' 45.79"" E
+5353573546,5601,railway_station,Tirupattur,12° 29' 54.08"" N,078° 33' 42.54"" E
+5585526150,5601,railway_station,Muttasaranallur,10° 51' 59.25"" N,078° 38' 54.37"" E
+5614640588,5601,railway_station,Kagankarai,12° 24' 36.62"" N,078° 30' 30.67"" E
+5614640589,5601,railway_station,Molakarampatti,12° 27' 20.7"" N,078° 32' 6.13"" E
+5615288574,5601,railway_station,Samalpatti,12° 18' 39.34"" N,078° 28' 58.6"" E
+5615288613,5601,railway_station,Dasampatti,12° 15' 7.19"" N,078° 26' 22.73"" E
+5615288835,5601,railway_station,Doddampatti,12° 10' 52.68"" N,078° 25' 20.4"" E
+5615288917,5601,railway_station,Morappur,12° 07' 33.26"" N,078° 23' 41.22"" E
+5616004256,5601,railway_station,Buddireddippatti,12° 02' 46.71"" N,078° 18' 49.51"" E
+5616004257,5601,railway_station,Bommidi,11° 59' 2.94"" N,078° 14' 45.47"" E
+5616004263,5601,railway_station,Lokur,11° 55' 43.49"" N,078° 10' 28.86"" E
+5956244327,5601,railway_station,Periyakottai,10° 07' 17.6"" N,078° 52' 23.06"" E
+5991431168,5601,railway_station,Ingur,11° 13' 32.14"" N,077° 35' 14.5"" E
+5992425075,5601,railway_station,Uttukuli,11° 09' 17.86"" N,077° 26' 44.25"" E
+5992425165,5601,railway_station,Koolipalayam,11° 08' 39.03"" N,077° 23' 25.21"" E
+6017178185,5601,railway_station,Karuvalli,11° 49' 51.66"" N,078° 01' 40.82"" E
+6017330755,5601,railway_station,Sivadi,12° 02' 20.64"" N,078° 07' 5.8"" E
+6017559309,5601,railway_station,Kelamangalam,12° 36' 55.67"" N,077° 51' 55.28"" E
+6022434015,5601,railway_station,Mallur,11° 33' 14.84"" N,078° 08' 5.42"" E
+6022434244,5601,railway_station,Kalangani,11° 19' 53.41"" N,078° 10' 33.7"" E
+6024045850,5601,railway_station,Chavadipalaiyam,11° 15' 42.66"" N,077° 47' 27.34"" E
+6024064942,5601,railway_station,Pasur,11° 14' 27.01"" N,077° 51' 18.46"" E
+6024075942,5601,railway_station,Kodumudi,11° 04' 35.35"" N,077° 53' 10.62"" E
+6024077335,5601,railway_station,Kolanalli,11° 10' 31.49"" N,077° 51' 38.2"" E
+6024081184,5601,railway_station,Unjalur,11° 07' 46.57"" N,077° 52' 36.37"" E
+6024091297,5601,railway_station,Noyal,11° 03' 37.31"" N,077° 55' 51.5"" E
+6024112209,5601,railway_station,Murthipalayam,11° 01' 17.08"" N,078° 01' 21.47"" E
+6024193345,5601,railway_station,Virarakkiyam,10° 56' 20.07"" N,078° 09' 58.05"" E
+6025339763,5601,railway_station,Sithalavai,10° 57' 29.81"" N,078° 16' 26.59"" E
+6025348098,5601,railway_station,Mahadanapuram,10° 57' 12.88"" N,078° 17' 58.35"" E
+6025355809,5601,railway_station,Lalapet,10° 57' 5.38"" N,078° 20' 23.27"" E
+6025360785,5601,railway_station,Timmachipuram,10° 57' 9.59"" N,078° 22' 21.06"" E
+6026329110,5601,railway_station,Pettaivaytalai,10° 53' 55.89"" N,078° 29' 36.75"" E
+6026340118,5601,railway_station,Perugamani,10° 53' 19.69"" N,078° 32' 51.07"" E
+6026356091,5601,railway_station,Elamanur,10° 52' 46.81"" N,078° 34' 26.01"" E
+6026414389,5601,railway_station,Velliyanai,10° 50' 25.6"" N,078° 06' 55.81"" E
+6026460791,5601,railway_station,Vembur,10° 35' 40.31"" N,078° 04' 24.24"" E
+6026468163,5601,railway_station,Eriodu,10° 30' 56.6"" N,078° 03' 24.32"" E
+6026478555,5601,railway_station,Kulathur,10° 26' 5.29"" N,078° 00' 35.7"" E
+6027050751,5601,railway_station,Kateri,11° 20' 7.47"" N,076° 47' 29.94"" E
+6047867257,5601,railway_station,Dalapatisamudram,08° 25' 51.96"" N,077° 38' 17.72"" E
+6047894114,5601,railway_station,Sengulam,08° 36' 24.46"" N,077° 40' 58.64"" E
+6063945408,5601,railway_station,Somanayakkanpatti,12° 34' 30.11"" N,078° 32' 32.11"" E
+6285857237,5601,railway_station,நங்கநல்லூர் சாலை,12° 59' 59.57"" N,080° 11' 38.44"" E
+6285857239,5601,railway_station,மீனம்பாக்கம்,12° 59' 15.62"" N,080° 10' 35.32"" E
+6285857241,5601,railway_station,சென்னை விமான நிலையம்,12° 58' 50.91"" N,080° 09' 51.13"" E
+6285857242,5601,railway_station,தேனாம்பேட்டை,13° 02' 12.48"" N,080° 14' 47.11"" E
+6285857243,5601,railway_station,நந்தனம்,13° 01' 54.15"" N,080° 14' 28.3"" E
+6285857244,5601,railway_station,சைதாப்பேட்டை,13° 01' 26.27"" N,080° 13' 41.09"" E
+6285857246,5601,railway_station,சின்னமலை,13° 00' 52.79"" N,080° 13' 27.0"" E
+6285857248,5601,railway_station,கிண்டி,13° 00' 33.39"" N,080° 12' 47.1"" E
+6285857249,5601,railway_station,ஏ ஜி டி.எம்.எஸ்,13° 02' 45.19"" N,080° 14' 53.82"" E
+6285857253,5601,railway_station,Chennai Central,13° 04' 54.21"" N,080° 16' 26.1"" E
+6460934200,5601,railway_station,Washermanpet,13° 06' 32.27"" N,080° 16' 55.23"" E
+8430632406,5601,railway_station,தியாகராயா கல்லூரி,13° 06' 56.72"" N,080° 17' 5.08"" E
+8430632416,5601,railway_station,தொண்டையார்பேட்டை,13° 07' 28.3"" N,080° 17' 19.88"" E
+8430636713,5601,railway_station,விம்கோ நகர்,13° 10' 45.45"" N,080° 18' 26.44"" E
+8430636714,5601,railway_station,திருவொற்றியூர்,13° 10' 18.49"" N,080° 18' 18.97"" E
+8430636715,5601,railway_station,காலடிபேட்டை,13° 09' 2.4"" N,080° 17' 57.81"" E
+8430636716,5601,railway_station,சுங்கச்சாவடி,13° 08' 35.28"" N,080° 17' 46.78"" E
+8430636817,5601,railway_station,புது வண்ணாரப்பேட்டை,13° 08' 4.27"" N,080° 17' 34.8"" E
+9580013601,5601,railway_station,திருவொற்றியூர் தேரடி,13° 09' 36.77"" N,080° 18' 8.81"" E
+9857416360,5601,railway_station,விம்கோ நகர் டிப்போ,13° 11' 2.29"" N,080° 18' 32.38"" E
+10252945311,5601,railway_station,Rameswaram,09° 16' 55.03"" N,079° 18' 32.42"" E
+10308125813,5601,railway_station,Mecheri Road,11° 48' 17.5"" N,077° 55' 19.3"" E
+10946079482,5601,railway_station,Railway station,11° 14' 33.84"" N,079° 43' 41.16"" E
+11703420865,5601,railway_station,Thousand Lights Metro Rail Station - தௌசன்ட் லைட்ஸ் மெட்ரோ ர,13° 03' 28.57"" N,080° 15' 29.47"" E
+11828181188,5601,railway_station,Railway Station,12° 33' 20.55"" N,078° 34' 37.79"" E
+12281414286,5601,railway_station,Samalpatti,12° 18' 40.59"" N,078° 28' 58.24"" E
